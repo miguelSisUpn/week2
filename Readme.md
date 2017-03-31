@@ -21,8 +21,7 @@ La salida de mensajes dejes tenerla en la consola.
 
 El proyecto deberá estar en la cuenta de GitHub del alumno
 
-
-================================================================
+==============
 
 **Review Criterialess**
 
