@@ -2,6 +2,7 @@ Tareas calificadas por los compañeros: Juego de memoria
 ==============
 
 **Instructions**
+--------------
 
 Programa un playground que evalúe un rango de números en base a 4 reglas de impresión.
 
@@ -24,9 +25,9 @@ La salida de mensajes dejes tenerla en la consola.
 
 El proyecto deberá estar en la cuenta de GitHub del alumno
 
-___________________________________________________________________________________
 
 **Review Criterialess**
+--------------
 
 ¿El playground se encuentra en GitHub?
 
